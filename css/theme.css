@@ -142,17 +142,6 @@
 
 }
 
-.theme_bg
-{
-	background-image:none;
-	background-repeat:no-repeat;
-	background-size:cover;	
-	background: radial-gradient(right bottom , ellipse cover , rgb(255, 7, 7) 46% , rgb(0, 0, 0) 76%);
-background: -o-radial-gradient(right bottom , ellipse cover , rgb(255, 7, 7) 46% , rgb(0, 0, 0) 76%);
-background: -ms-radial-gradient(right bottom , ellipse cover , rgb(255, 7, 7) 46% , rgb(0, 0, 0) 76%);
-background: -moz-radial-gradient(right bottom , ellipse cover , rgb(255, 7, 7) 46% , rgb(0, 0, 0) 76%);
-background: -webkit-radial-gradient(right bottom , ellipse cover , rgb(255, 7, 7) 46% , rgb(0, 0, 0) 76%);
-}
 
 
 
